@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1200" height="150" alt="nombre_gif" src="https://github.com/user-attachments/assets/ba964925-7a90-490d-852a-e41748efd430" />
 
 <!--
 **mpaulachivata/mpaulachivata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
